@@ -1235,7 +1235,10 @@ ARIS 能在这么多平台上运行，离不开这些贡献者：
 - 🔧 [@No-518](https://github.com/No-518) — 持续维护 Codex skill 集合，保持与最新更新同步
 - 🖱️ [@YecanLee](https://github.com/YecanLee) — 编写 [Cursor 适配指南](docs/CURSOR_ADAPTATION.md)及本地 GPU 配置文档
 - 🏆 [@DefanXue](https://github.com/DefanXue) & [@Monglitay](https://github.com/Monglitay) — 首个 ARIS 全流程完成的社区论文，CS 会议评分 8/10
-- 💡 [@JingxuanKang](https://github.com/JingxuanKang) — 不只是 skills（training-check、result-to-claim、ablation-planner、watchdog、模板、session 恢复），更有对 ARIS 架构、compact 模式设计、自主科研工作流愿景的深入讨论和思想碰撞
+
+**特别感谢 — 架构与愿景**
+
+- 💡 [@JingxuanKang](https://github.com/JingxuanKang) — 不止于代码贡献（training-check、result-to-claim、ablation-planner、watchdog、模板、session 恢复），更深度参与了 ARIS 的架构讨论——compact 模式、工作流状态管理、自主科研工作流的愿景。今天很多核心功能——从结构化项目文件到 context-aware session 恢复——都源自这些对话。
 
 ## License
 
